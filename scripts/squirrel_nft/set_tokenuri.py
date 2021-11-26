@@ -17,7 +17,7 @@ def main():
         if not squirrelnft.tokenURI(token_id).startswith("https://"):
             print(f"Setting tokenURI of Squirrel{token_id}")
             squirrel_number = squirrelnft.tokenIdToVariation[token_id]
-            squirrel_token_uri = tokenuri_list[squirrel_number]
+            squirrel_token_uri = tokenuri_list(squirrel_number)
             set_tokenURI(token_id, squirrelnft, squirrel_token_uri)
 
 
