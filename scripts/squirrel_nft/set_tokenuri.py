@@ -6,6 +6,14 @@ from scripts.helpful_scripts import (
 )
 import json
 
+def set_tokenURI(token_id, nft_contract, tokenURI):
+    account = getAccount()
+    tx = nft_contract.setTokenURI(token_id, tokenURI, {"from": account})
+    tx.wait(1)
+    print(
+        f"You can view your NFT at {OPENSEA_URL.format(nft_contract.address, token_id)} !"
+    )
+    print("Please wait up to 20 minutes, and hit the refresh metadata button!")
 
 def main():
     print(f"Working on {network.show_active()}")
@@ -21,11 +29,3 @@ def main():
             set_tokenURI(token_id, squirrelnft, squirrel_token_uri)
 
 
-def set_tokenURI(token_id, nft_contract, tokenURI):
-    account = getAccount()
-    tx = nft_contract.setTokenURI(token_id, tokenURI, {"from": account})
-    tx.wait(1)
-    print(
-        f"You can view your NFT at {OPENSEA_URL.format(nft_contract.address, token_id)} !"
-    )
-    print("Please wait up to 20 minutes, and hit the refresh metadata button!")
