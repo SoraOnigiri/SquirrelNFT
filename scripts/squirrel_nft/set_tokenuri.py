@@ -26,6 +26,6 @@ def set_tokenURI(token_id, nft_contract, tokenURI):
     tx = nft_contract.setTokenURI(token_id, tokenURI, {"from": account})
     tx.wait(1)
     print(
-        f"You can view your NFT at {OPENSEA_URL.format(nft_contract.address, token_id)}!"
+        f"You can view your NFT at {OPENSEA_URL.format(nft_contract.address, token_id)} !"
     )
     print("Please wait up to 20 minutes, and hit the refresh metadata button!")
