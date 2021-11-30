@@ -34,15 +34,14 @@ with open("./assets/imageuri.json", "r") as file:
     j = json.load(file)
     for i in range(assetNum):
         # Name
-        metadata_file_name = f"squirrel{i}"
+        name = j[i]["name"]
         # Description
         description = f"Squirrel{i} reporting for duty!"
         # Image URI
-        hash = j[i]["Hash"]
-        image_uri = f"https://ipfs.io/ipfs/{hash}?filename={metadata_file_name}.png"
+        image_uri = j[i]["imageuri"]
         # Attributes
         data = {
-            "name": metadata_file_name,
+            "name": name,
             "description": description,
             "image": image_uri,
             "attributes": [{"trait_type": "cuteness", "value": -1}],

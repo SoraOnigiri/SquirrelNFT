@@ -1,254 +1,212 @@
 [
     {
-        "Name": "squirrel0.png",
-        "Hash": "QmbJ8GB2AqzseZDqtWdXHba8HG9oXo1hs6NpkPut6fkLSQ",
-        "Size": 55916,
-        "Type": "File"
+        "name": "squirrel0",
+        "hash": "QmbJ8GB2AqzseZDqtWdXHba8HG9oXo1hs6NpkPut6fkLSQ",
+        "imageuri": "ipfs://QmbJ8GB2AqzseZDqtWdXHba8HG9oXo1hs6NpkPut6fkLSQ"
     },
     {
-        "Name": "squirrel1.png",
-        "Hash": "QmZwyHEoHuoRj1w7XgQ9Tiag8duS5NJm818byCJ83NsAVK",
-        "Size": 58925,
-        "Type": "File"
+        "name": "squirrel1",
+        "hash": "QmZwyHEoHuoRj1w7XgQ9Tiag8duS5NJm818byCJ83NsAVK",
+        "imageuri": "ipfs://QmZwyHEoHuoRj1w7XgQ9Tiag8duS5NJm818byCJ83NsAVK"
     },
     {
-        "Name": "squirrel10.png",
-        "Hash": "QmXUr9de4HwscWQhbPfUsMcZJEqGfr6k8ULS3SgUcQtnAj",
-        "Size": 48047,
-        "Type": "File"
+        "name": "squirrel2",
+        "hash": "QmPSSWWzZGqppigVkS9BUJKXqe67aFTkFH6mrKDHBjjv8n",
+        "imageuri": "ipfs://QmPSSWWzZGqppigVkS9BUJKXqe67aFTkFH6mrKDHBjjv8n"
     },
     {
-        "Name": "squirrel11.png",
-        "Hash": "QmZwjhwfJxWBcZz7vrgAJB38n9wGhqEvjHajdmz7pm3JAp",
-        "Size": 58072,
-        "Type": "File"
+        "name": "squirrel3",
+        "hash": "QmYMLCfuxP6YP9y7noDAJV3KzVJjmsTyqmh57uT8XRKczy",
+        "imageuri": "ipfs://QmYMLCfuxP6YP9y7noDAJV3KzVJjmsTyqmh57uT8XRKczy"
     },
     {
-        "Name": "squirrel12.png",
-        "Hash": "QmV2V6zxwfdAFr3wxzTak3Y58baM3G2goJjPyi1DaesdHH",
-        "Size": 57349,
-        "Type": "File"
+        "name": "squirrel4",
+        "hash": "QmPtBvuwqpWSNBeCJejrzpv1XFqjauySAjwPZNciijXVKM",
+        "imageuri": "ipfs://QmPtBvuwqpWSNBeCJejrzpv1XFqjauySAjwPZNciijXVKM"
     },
     {
-        "Name": "squirrel13.png",
-        "Hash": "QmVjegJaQQG74KWymH6AUiTCUXdLX7KJ2rr2WRPaLdCUYV",
-        "Size": 56744,
-        "Type": "File"
+        "name": "squirrel5",
+        "hash": "QmcZhLyun8D3TEWBLwostHbxt2SWYukZP63yQrdQi2beaV",
+        "imageuri": "ipfs://QmcZhLyun8D3TEWBLwostHbxt2SWYukZP63yQrdQi2beaV"
     },
     {
-        "Name": "squirrel14.png",
-        "Hash": "QmUXs6v1D2Xz5hbr1Bism3cV4SoNiiT9ZzDz6aZK2cpChe",
-        "Size": 50070,
-        "Type": "File"
+        "name": "squirrel6",
+        "hash": "QmfDoDo5ASZHV8LxmtNTFngjeVyTjZMToRH83QXi1o8bSF",
+        "imageuri": "ipfs://QmfDoDo5ASZHV8LxmtNTFngjeVyTjZMToRH83QXi1o8bSF"
     },
     {
-        "Name": "squirrel15.png",
-        "Hash": "QmVFCTQXTme43oviQRDNTCpxDmWM1jEzg72jA1eCgxuvah",
-        "Size": 57137,
-        "Type": "File"
+        "name": "squirrel7",
+        "hash": "Qmcwo9tsoadSFGhrB3aZXBH887jMpoXwTwjtq9nzXsFcpf",
+        "imageuri": "ipfs://Qmcwo9tsoadSFGhrB3aZXBH887jMpoXwTwjtq9nzXsFcpf"
     },
     {
-        "Name": "squirrel16.png",
-        "Hash": "QmecgNwZXJdWhnkxhjKQePqF42gHVoAcUhEWJs7Y5yNY7T",
-        "Size": 58288,
-        "Type": "File"
+        "name": "squirrel8",
+        "hash": "QmZpjSaUrFpUezzbyDk9ka7hGfLepVLo5WW7kG3qXnXbng",
+        "imageuri": "ipfs://QmZpjSaUrFpUezzbyDk9ka7hGfLepVLo5WW7kG3qXnXbng"
     },
     {
-        "Name": "squirrel17.png",
-        "Hash": "QmZPkkugn6615HCoJ9qsk1knTuTcyuznAZTFJuQhPHMe6F",
-        "Size": 58724,
-        "Type": "File"
+        "name": "squirrel9",
+        "hash": "QmVLF74fQkBnazppCyKQM8TV1YFbTh7QwjEEicKRu4yABJ",
+        "imageuri": "ipfs://QmVLF74fQkBnazppCyKQM8TV1YFbTh7QwjEEicKRu4yABJ"
     },
     {
-        "Name": "squirrel18.png",
-        "Hash": "QmSTrtCYK13PKeJHePd7u9gi2f4P7y4MjHG9w7nN6S16Ao",
-        "Size": 57458,
-        "Type": "File"
+        "name": "squirrel10",
+        "hash": "QmXUr9de4HwscWQhbPfUsMcZJEqGfr6k8ULS3SgUcQtnAj",
+        "imageuri": "ipfs://QmXUr9de4HwscWQhbPfUsMcZJEqGfr6k8ULS3SgUcQtnAj"
     },
     {
-        "Name": "squirrel19.png",
-        "Hash": "QmSWz6U2aPo7L5Yka1bA3Q2xoxr3V7Yay6oCJQfTn9ePyR",
-        "Size": 56926,
-        "Type": "File"
+        "name": "squirrel11",
+        "hash": "QmZwjhwfJxWBcZz7vrgAJB38n9wGhqEvjHajdmz7pm3JAp",
+        "imageuri": "ipfs://QmZwjhwfJxWBcZz7vrgAJB38n9wGhqEvjHajdmz7pm3JAp"
     },
     {
-        "Name": "squirrel2.png",
-        "Hash": "QmPSSWWzZGqppigVkS9BUJKXqe67aFTkFH6mrKDHBjjv8n",
-        "Size": 56701,
-        "Type": "File"
+        "name": "squirrel12",
+        "hash": "QmV2V6zxwfdAFr3wxzTak3Y58baM3G2goJjPyi1DaesdHH",
+        "imageuri": "ipfs://QmV2V6zxwfdAFr3wxzTak3Y58baM3G2goJjPyi1DaesdHH"
     },
     {
-        "Name": "squirrel20.png",
-        "Hash": "QmdLKJvpn96tautzvv2EoCyALu5r1kFr6HC9DgcFsSQfUa",
-        "Size": 57391,
-        "Type": "File"
+        "name": "squirrel13",
+        "hash": "QmVjegJaQQG74KWymH6AUiTCUXdLX7KJ2rr2WRPaLdCUYV",
+        "imageuri": "ipfs://QmVjegJaQQG74KWymH6AUiTCUXdLX7KJ2rr2WRPaLdCUYV"
     },
     {
-        "Name": "squirrel21.png",
-        "Hash": "QmP87EQdutA7neYgKi3JbHr6ctHm4gbPtLcnwQYTo8fuAJ",
-        "Size": 58178,
-        "Type": "File"
+        "name": "squirrel14",
+        "hash": "QmUXs6v1D2Xz5hbr1Bism3cV4SoNiiT9ZzDz6aZK2cpChe",
+        "imageuri": "ipfs://QmUXs6v1D2Xz5hbr1Bism3cV4SoNiiT9ZzDz6aZK2cpChe"
     },
     {
-        "Name": "squirrel22.png",
-        "Hash": "QmR1ZUxUJGQWMVmcT3SUG3ie9ugjyN7a3VNcPgGXS5744P",
-        "Size": 56308,
-        "Type": "File"
+        "name": "squirrel15",
+        "hash": "QmVFCTQXTme43oviQRDNTCpxDmWM1jEzg72jA1eCgxuvah",
+        "imageuri": "ipfs://QmVFCTQXTme43oviQRDNTCpxDmWM1jEzg72jA1eCgxuvah"
     },
     {
-        "Name": "squirrel23.png",
-        "Hash": "QmShSj1CgWmiSyUAjquHyciySGAszJCFqRXbM2nxuxTFiQ",
-        "Size": 58082,
-        "Type": "File"
+        "name": "squirrel16",
+        "hash": "QmecgNwZXJdWhnkxhjKQePqF42gHVoAcUhEWJs7Y5yNY7T",
+        "imageuri": "ipfs://QmecgNwZXJdWhnkxhjKQePqF42gHVoAcUhEWJs7Y5yNY7T"
     },
     {
-        "Name": "squirrel24.png",
-        "Hash": "QmP35KqttLqtGdkEUT3BcX6B3QT7wN7bhUHoPbfGPfUbZs",
-        "Size": 58863,
-        "Type": "File"
+        "name": "squirrel17",
+        "hash": "QmZPkkugn6615HCoJ9qsk1knTuTcyuznAZTFJuQhPHMe6F",
+        "imageuri": "ipfs://QmZPkkugn6615HCoJ9qsk1knTuTcyuznAZTFJuQhPHMe6F"
     },
     {
-        "Name": "squirrel25.png",
-        "Hash": "QmUYsv8sT9rvRuVmA5sXq6T2zdPMXHFPX6ZnpVS9VDHpar",
-        "Size": 56547,
-        "Type": "File"
+        "name": "squirrel18",
+        "hash": "QmSTrtCYK13PKeJHePd7u9gi2f4P7y4MjHG9w7nN6S16Ao",
+        "imageuri": "ipfs://QmSTrtCYK13PKeJHePd7u9gi2f4P7y4MjHG9w7nN6S16Ao"
     },
     {
-        "Name": "squirrel26.png",
-        "Hash": "QmPDthG2VMjqqX1G8AjT8Wgc9Wwy61wDbw72ZVDkPGDAr4",
-        "Size": 56167,
-        "Type": "File"
+        "name": "squirrel19",
+        "hash": "QmSWz6U2aPo7L5Yka1bA3Q2xoxr3V7Yay6oCJQfTn9ePyR",
+        "imageuri": "ipfs://QmSWz6U2aPo7L5Yka1bA3Q2xoxr3V7Yay6oCJQfTn9ePyR"
     },
     {
-        "Name": "squirrel27.png",
-        "Hash": "Qmb2kQNEVC2Y4H4UfckP7uNuQXiPA3Dw1G5wCCGuhHE3wo",
-        "Size": 57309,
-        "Type": "File"
+        "name": "squirrel20",
+        "hash": "QmdLKJvpn96tautzvv2EoCyALu5r1kFr6HC9DgcFsSQfUa",
+        "imageuri": "ipfs://QmdLKJvpn96tautzvv2EoCyALu5r1kFr6HC9DgcFsSQfUa"
     },
     {
-        "Name": "squirrel28.png",
-        "Hash": "QmZXwQjTkYneewcJv94gfKYW2LJgxiybKiW4JSrqtf1X1J",
-        "Size": 58234,
-        "Type": "File"
+        "name": "squirrel21",
+        "hash": "QmP87EQdutA7neYgKi3JbHr6ctHm4gbPtLcnwQYTo8fuAJ",
+        "imageuri": "ipfs://QmP87EQdutA7neYgKi3JbHr6ctHm4gbPtLcnwQYTo8fuAJ"
     },
     {
-        "Name": "squirrel29.png",
-        "Hash": "QmfVkNR7qUjHxQWWu1kv6hR2xh9hLKJQigfaSXyWDYvqFX",
-        "Size": 57235,
-        "Type": "File"
+        "name": "squirrel22",
+        "hash": "QmR1ZUxUJGQWMVmcT3SUG3ie9ugjyN7a3VNcPgGXS5744P",
+        "imageuri": "ipfs://QmR1ZUxUJGQWMVmcT3SUG3ie9ugjyN7a3VNcPgGXS5744P"
     },
     {
-        "Name": "squirrel3.png",
-        "Hash": "QmYMLCfuxP6YP9y7noDAJV3KzVJjmsTyqmh57uT8XRKczy",
-        "Size": 56816,
-        "Type": "File"
+        "name": "squirrel23",
+        "hash": "QmShSj1CgWmiSyUAjquHyciySGAszJCFqRXbM2nxuxTFiQ",
+        "imageuri": "ipfs://QmShSj1CgWmiSyUAjquHyciySGAszJCFqRXbM2nxuxTFiQ"
     },
     {
-        "Name": "squirrel30.png",
-        "Hash": "QmbfzgfkdZrXhQ1RwRqMe86KXeB9BPXdRCynoZeF7MCqzd",
-        "Size": 50205,
-        "Type": "File"
+        "name": "squirrel24",
+        "hash": "QmP35KqttLqtGdkEUT3BcX6B3QT7wN7bhUHoPbfGPfUbZs",
+        "imageuri": "ipfs://QmP35KqttLqtGdkEUT3BcX6B3QT7wN7bhUHoPbfGPfUbZs"
     },
     {
-        "Name": "squirrel31.png",
-        "Hash": "QmZUBx6N8aMkCU2KSYHNXueLUQxfxFNR8uvwEkLahpsXb2",
-        "Size": 58410,
-        "Type": "File"
+        "name": "squirrel25",
+        "hash": "QmUYsv8sT9rvRuVmA5sXq6T2zdPMXHFPX6ZnpVS9VDHpar",
+        "imageuri": "ipfs://QmUYsv8sT9rvRuVmA5sXq6T2zdPMXHFPX6ZnpVS9VDHpar"
     },
     {
-        "Name": "squirrel32.png",
-        "Hash": "QmeEGzEGbBjpnWTCS7o8y2bgaTdgthvFEHAER4mzX9bQEJ",
-        "Size": 57332,
-        "Type": "File"
+        "name": "squirrel26",
+        "hash": "QmPDthG2VMjqqX1G8AjT8Wgc9Wwy61wDbw72ZVDkPGDAr4",
+        "imageuri": "ipfs://QmPDthG2VMjqqX1G8AjT8Wgc9Wwy61wDbw72ZVDkPGDAr4"
     },
     {
-        "Name": "squirrel33.png",
-        "Hash": "QmdSDGpGDx6MDSDKxfWkhTUSnbjn2JQWoKDTxc4uaBCH8M",
-        "Size": 57609,
-        "Type": "File"
+        "name": "squirrel27",
+        "hash": "Qmb2kQNEVC2Y4H4UfckP7uNuQXiPA3Dw1G5wCCGuhHE3wo",
+        "imageuri": "ipfs://Qmb2kQNEVC2Y4H4UfckP7uNuQXiPA3Dw1G5wCCGuhHE3wo"
     },
     {
-        "Name": "squirrel34.png",
-        "Hash": "QmRUZgzuCg4F2hCCWnoXCAHtyRkRcymUWeHEAYLQ6wBMYT",
-        "Size": 58141,
-        "Type": "File"
+        "name": "squirrel28",
+        "hash": "QmZXwQjTkYneewcJv94gfKYW2LJgxiybKiW4JSrqtf1X1J",
+        "imageuri": "ipfs://QmZXwQjTkYneewcJv94gfKYW2LJgxiybKiW4JSrqtf1X1J"
     },
     {
-        "Name": "squirrel35.png",
-        "Hash": "QmNofJBHX8LpBjnB35FKkfEJkMHebSNkeRiHUSJX8TFzwt",
-        "Size": 56595,
-        "Type": "File"
+        "name": "squirrel29",
+        "hash": "QmfVkNR7qUjHxQWWu1kv6hR2xh9hLKJQigfaSXyWDYvqFX",
+        "imageuri": "ipfs://QmfVkNR7qUjHxQWWu1kv6hR2xh9hLKJQigfaSXyWDYvqFX"
     },
     {
-        "Name": "squirrel36.png",
-        "Hash": "QmTYbnxUii8HFRyRAyvBrEKWaKMdV6HehdDiug357y1W3g",
-        "Size": 49375,
-        "Type": "File"
+        "name": "squirrel30",
+        "hash": "QmbfzgfkdZrXhQ1RwRqMe86KXeB9BPXdRCynoZeF7MCqzd",
+        "imageuri": "ipfs://QmbfzgfkdZrXhQ1RwRqMe86KXeB9BPXdRCynoZeF7MCqzd"
     },
     {
-        "Name": "squirrel37.png",
-        "Hash": "QmWSzUz5uhs18skNgzRrwZ3Dsx53fE3g4whBfm1Grs9pwe",
-        "Size": 55942,
-        "Type": "File"
+        "name": "squirrel31",
+        "hash": "QmZUBx6N8aMkCU2KSYHNXueLUQxfxFNR8uvwEkLahpsXb2",
+        "imageuri": "ipfs://QmZUBx6N8aMkCU2KSYHNXueLUQxfxFNR8uvwEkLahpsXb2"
     },
     {
-        "Name": "squirrel38.png",
-        "Hash": "QmP1HtivqjDaRdZC2wWa24AqNDboVoeV4cnWHP6CLfyajz",
-        "Size": 58844,
-        "Type": "File"
+        "name": "squirrel32",
+        "hash": "QmeEGzEGbBjpnWTCS7o8y2bgaTdgthvFEHAER4mzX9bQEJ",
+        "imageuri": "ipfs://QmeEGzEGbBjpnWTCS7o8y2bgaTdgthvFEHAER4mzX9bQEJ"
     },
     {
-        "Name": "squirrel39.png",
-        "Hash": "QmVR7hosBX71j5REFeqPMVSXzmdFj1iMYoFakHSB1wmHec",
-        "Size": 58159,
-        "Type": "File"
+        "name": "squirrel33",
+        "hash": "QmdSDGpGDx6MDSDKxfWkhTUSnbjn2JQWoKDTxc4uaBCH8M",
+        "imageuri": "ipfs://QmdSDGpGDx6MDSDKxfWkhTUSnbjn2JQWoKDTxc4uaBCH8M"
     },
     {
-        "Name": "squirrel4.png",
-        "Hash": "QmPtBvuwqpWSNBeCJejrzpv1XFqjauySAjwPZNciijXVKM",
-        "Size": 57822,
-        "Type": "File"
+        "name": "squirrel34",
+        "hash": "QmRUZgzuCg4F2hCCWnoXCAHtyRkRcymUWeHEAYLQ6wBMYT",
+        "imageuri": "ipfs://QmRUZgzuCg4F2hCCWnoXCAHtyRkRcymUWeHEAYLQ6wBMYT"
     },
     {
-        "Name": "squirrel40.png",
-        "Hash": "QmQtqxUL5VF2YDVm2i79vEpBiHjAELzjL9dFA2UDP8AkFJ",
-        "Size": 49482,
-        "Type": "File"
+        "name": "squirrel35",
+        "hash": "QmNofJBHX8LpBjnB35FKkfEJkMHebSNkeRiHUSJX8TFzwt",
+        "imageuri": "ipfs://QmNofJBHX8LpBjnB35FKkfEJkMHebSNkeRiHUSJX8TFzwt"
     },
     {
-        "Name": "squirrel41.png",
-        "Hash": "QmTe1CcAzhhDWNVXHSECAEVAfbVEgvxyZAuqHbWAG14Emr",
-        "Size": 48650,
-        "Type": "File"
+        "name": "squirrel36",
+        "hash": "QmTYbnxUii8HFRyRAyvBrEKWaKMdV6HehdDiug357y1W3g",
+        "imageuri": "ipfs://QmTYbnxUii8HFRyRAyvBrEKWaKMdV6HehdDiug357y1W3g"
     },
     {
-        "Name": "squirrel5.png",
-        "Hash": "QmcZhLyun8D3TEWBLwostHbxt2SWYukZP63yQrdQi2beaV",
-        "Size": 56623,
-        "Type": "File"
+        "name": "squirrel37",
+        "hash": "QmWSzUz5uhs18skNgzRrwZ3Dsx53fE3g4whBfm1Grs9pwe",
+        "imageuri": "ipfs://QmWSzUz5uhs18skNgzRrwZ3Dsx53fE3g4whBfm1Grs9pwe"
     },
     {
-        "Name": "squirrel6.png",
-        "Hash": "QmfDoDo5ASZHV8LxmtNTFngjeVyTjZMToRH83QXi1o8bSF",
-        "Size": 50788,
-        "Type": "File"
+        "name": "squirrel38",
+        "hash": "QmP1HtivqjDaRdZC2wWa24AqNDboVoeV4cnWHP6CLfyajz",
+        "imageuri": "ipfs://QmP1HtivqjDaRdZC2wWa24AqNDboVoeV4cnWHP6CLfyajz"
     },
     {
-        "Name": "squirrel7.png",
-        "Hash": "Qmcwo9tsoadSFGhrB3aZXBH887jMpoXwTwjtq9nzXsFcpf",
-        "Size": 58822,
-        "Type": "File"
+        "name": "squirrel39",
+        "hash": "QmVR7hosBX71j5REFeqPMVSXzmdFj1iMYoFakHSB1wmHec",
+        "imageuri": "ipfs://QmVR7hosBX71j5REFeqPMVSXzmdFj1iMYoFakHSB1wmHec"
     },
     {
-        "Name": "squirrel8.png",
-        "Hash": "QmZpjSaUrFpUezzbyDk9ka7hGfLepVLo5WW7kG3qXnXbng",
-        "Size": 56786,
-        "Type": "File"
+        "name": "squirrel40",
+        "hash": "QmQtqxUL5VF2YDVm2i79vEpBiHjAELzjL9dFA2UDP8AkFJ",
+        "imageuri": "ipfs://QmQtqxUL5VF2YDVm2i79vEpBiHjAELzjL9dFA2UDP8AkFJ"
     },
     {
-        "Name": "squirrel9.png",
-        "Hash": "QmVLF74fQkBnazppCyKQM8TV1YFbTh7QwjEEicKRu4yABJ",
-        "Size": 56644,
-        "Type": "File"
+        "name": "squirrel41",
+        "hash": "QmTe1CcAzhhDWNVXHSECAEVAfbVEgvxyZAuqHbWAG14Emr",
+        "imageuri": "ipfs://QmTe1CcAzhhDWNVXHSECAEVAfbVEgvxyZAuqHbWAG14Emr"
     }
 ]

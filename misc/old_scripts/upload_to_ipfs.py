@@ -8,6 +8,7 @@ import requests
 import json
 import time
 
+
 assetCount = 42
 tokenUriMapping = {}
 count = 3
