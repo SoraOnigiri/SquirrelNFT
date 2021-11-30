@@ -14,3 +14,5 @@ Goals
 6. Set Token URI
 
 This program uses the Brownie Python based development and testing framework. https://eth-brownie.readthedocs.io/en/stable/
+
+See https://testnets.opensea.io/assets/0x52f91FF55c971c422b6514Ae668aD81B5DC84e08/0 for an example of the NFT. 
